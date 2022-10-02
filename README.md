@@ -1,4 +1,7 @@
-Hi 👋,I'm İbrahim.
+Hi 👋, I'm İbrahim.
+
+Android Devoloper
+-------------------------------------------------
 
 - 🔭 I’m currently working on Kotlin and Java.
 - 🌱 I’m currently learning Kotlin.
