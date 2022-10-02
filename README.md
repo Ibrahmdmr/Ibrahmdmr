@@ -1,5 +1,7 @@
 Hi 👋, I'm İbrahim.
                        
+                                                                             ![resim](https://images.app.goo.gl/biEegVCRXwaGfheG9)
+                        
 Android Devoloper
 -------------------------------------------------
 
