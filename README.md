@@ -1,8 +1,5 @@
 Hi 👋,I'm İbrahim.
 
-<!--
-**Ibrahmdmr/Ibrahmdmr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 - 🔭 I’m currently working on Kotlin and Java.
 - 🌱 I’m currently learning Kotlin.
 
