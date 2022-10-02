@@ -1,8 +1,5 @@
 Hi 👋, I'm İbrahim.
-                          
-                                                                                                                         ![alt text](https://nano.komputronik.pl/wp-content/uploads/2021/08/android-12-new-1256x700.jpg)
-
-               
+                       
 Android Devoloper
 -------------------------------------------------
 
