@@ -1,6 +1,7 @@
 Hi 👋, I'm İbrahim.
                                                                                                    
-                                                                                                   ![Uploading android_resim.png…]()
+                                                                                                
+![android_resim](https://user-images.githubusercontent.com/92909637/193442645-9127d8e5-8067-4b48-8caf-6e3bfd07f4c2.png)
                                                                                  
 Android Devoloper
 -------------------------------------------------
