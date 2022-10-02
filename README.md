@@ -8,7 +8,7 @@ Android Devoloper
 - 🔭 I’m currently working on Kotlin and Java.
 - 🌱 I’m currently learning Kotlin.
 
-- ⚡ I am currently developing android mobile projects with Kotlin.
+- ⚡ I'm currently developing android mobile projects with Kotlin.
 
 
 
